@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.LatteConnect" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0F3D5C</item>
+        <item name="android:windowBackground">#FAF7F2</item>
+    </style>
+</resources>
